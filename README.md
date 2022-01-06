@@ -2,8 +2,8 @@
 
 #### Виконала студентка групи ІВ-91 Бузулук М.В.
 
-### Скріншти виконання роботи:
+### Скріншоти виконання роботи:
 
-![noparams]()
+![folder](https://github.com/Vivechka/Lab5AK/blob/main/0.PNG)
 
-![t0]()
+![result](https://github.com/Vivechka/Lab5AK/blob/main/result.PNG)
